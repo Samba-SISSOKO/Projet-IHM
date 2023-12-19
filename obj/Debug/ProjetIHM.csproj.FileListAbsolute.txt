@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\Code-source\Solution2\ProjetIHM\bin\Debug\ProjetIHM.exe.config
+C:\Users\pc\Desktop\Code-source\Solution2\ProjetIHM\bin\Debug\ProjetIHM.exe
+C:\Users\pc\Desktop\Code-source\Solution2\ProjetIHM\bin\Debug\ProjetIHM.pdb
+C:\Users\pc\Desktop\Code-source\Solution2\ProjetIHM\obj\Debug\ProjetIHM.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Code-source\Solution2\ProjetIHM\obj\Debug\ProjetIHM.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Code-source\Solution2\ProjetIHM\obj\Debug\ProjetIHM.exe
+C:\Users\pc\Desktop\Code-source\Solution2\ProjetIHM\obj\Debug\ProjetIHM.pdb
